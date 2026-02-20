@@ -6,7 +6,6 @@ An end-to-end mock interview and assessment platform that combines a FastAPI bac
 
 - `Ai/`: FastAPI service that manages authentication, question generation, answer evaluation, and persistence.
 - `newmyapp/`: React single-page application that drives onboarding, test-taking, interview simulations, and visual feedback.
-- `java-backend/`: Placeholder module (currently empty) reserved for future Java integrations.
 
 ## Core Features
 
